@@ -1,0 +1,9 @@
+{
+	"name": "gitdevadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f3864421-6f8a-4df7-aa77-ec9c797be707",
+		"tenantId": "2d988898-be94-47f8-a3b8-84acd40b556a"
+	}
+}
